@@ -1,0 +1,33 @@
+.content-title {
+  text-align: center;
+  padding: 20px;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px;
+}
+
+.card {
+
+  /* border: 2px dashed red; */
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  box-shadow: 5px 5px 20px 1px rgba(0, 0, 0, 0.463);
+}
+
+.card:hover {
+   box-shadow: 5px 5px 20px 1px rgba(178, 52, 52, 0.463);
+}
+
+.card-img {
+  background-image: url("../images/learn.svg");
+  background-position: center;
+  background-size:contain;
+  height: 150px;
+  width: 100%;
+  border: 3px solid green;
+}

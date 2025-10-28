@@ -1,0 +1,26 @@
+/* Utilities */
+body {
+  margin: 0;
+  font-family: Open Sans;
+}
+
+h1, h2, h3, h4 {
+  font-family: Poppins;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  display: inline;
+  padding: 10px;
+}
+
+li:hover {
+  margin: -10px
+}

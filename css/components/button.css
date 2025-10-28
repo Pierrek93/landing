@@ -1,0 +1,11 @@
+.btn-primary {
+  padding: 15px;
+  color: black;
+  background-color: rgb(255, 191, 0);
+  opacity: 1;
+}
+
+.btn-primary:hover {
+  background-color: rgb(255, 191, 0);
+  opacity: 0.8;
+}

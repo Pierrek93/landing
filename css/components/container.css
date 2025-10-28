@@ -1,0 +1,8 @@
+.container {
+  /* border: 2px solid greenyellow; */
+  margin: 0 auto;
+  margin: 0px 300px;
+  font-weight: bold;
+  line-height: 15px;
+  color: black;
+}
