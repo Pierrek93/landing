@@ -1,5 +1,5 @@
 .banner {
-  background-image: url("../images/banner.png");
+  background-image: url("/images/banner.png");
   background-position: center;
   margin: 0 auto;
   height: 600px;
